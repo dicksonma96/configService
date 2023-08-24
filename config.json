@@ -1,4 +1,4 @@
 {
-   "autoRefreshBalance": true,
+   "autoRefreshBalance": false,
    "autoRefreshTime": 10000
 }
