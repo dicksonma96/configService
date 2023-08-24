@@ -1,0 +1,4 @@
+{
+   "autoRefreshBalance": true,
+    "autoRefreshTime": 10000, //milliseconds,
+}
