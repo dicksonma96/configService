@@ -21,13 +21,13 @@
             "en-us":"carousel/2/Desktop/Jackpot-Feature-desktop-EN.jpg",
             "ms-ms":"carousel/2/Desktop/Jackpot-Feature-desktop-MLY.jpg",
             "zh-cn":"carousel/2/Desktop/Jackpot-Feature-desktop-CN.jpg",
-            "default":"carousel/1/Desktop/Buy-Free-desktop-EN.jpg"
+            "default":"carousel/1/Desktop/Jackpot-Feature-desktop-EN.jpg"
          },
          "Mobile":{
-            "en-us":"carousel/2/Mobile/Jackpot-Feature-desktop-EN.jpg",
-            "ms-ms":"carousel/2/Mobile/Jackpot-Feature-desktop-MLY.jpg",
-            "zh-cn":"carousel/2/Mobile/Jackpot-Feature-desktop-CN.jpg",
-            "default":"carousel/1/Desktop/Buy-Free-desktop-EN.jpg"
+            "en-us":"carousel/2/Mobile/Jackpot-Feature-mobile-EN.jpg",
+            "ms-ms":"carousel/2/Mobile/Jackpot-Feature-mobile-MLY.jpg",
+            "zh-cn":"carousel/2/Mobile/Jackpot-Feature-mobile-CN.jpg",
+            "default":"carousel/1/Mobile/Jackpot-Feature-mobile-EN.jpg"
          }
       }
    ]
