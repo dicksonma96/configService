@@ -4,26 +4,30 @@
    "carouselBanner" : [
       {
          "Desktop":{
-            "en-us":"carousel/1/Desktop/Buy-Free-desktop-EN.jpg"
-            "ms-ms":"carousel/1/Desktop/Buy-Free-desktop-MY.jpg"
-            "zh-cn":"carousel/1/Desktop/Buy-Free-desktop-CN.jpg"            
+            "en-us":"carousel/1/Desktop/Buy-Free-desktop-EN.jpg",
+            "ms-ms":"carousel/1/Desktop/Buy-Free-desktop-MY.jpg",
+            "zh-cn":"carousel/1/Desktop/Buy-Free-desktop-CN.jpg",
+            "default":"carousel/1/Desktop/Buy-Free-desktop-EN.jpg"
          },
          "Mobile":{
-             "en-us":"carousel/1/Mobile/Buy-Free-mobile-EN.jpg"
-            "ms-ms":"carousel/1/Mobile/Buy-Free-mobile-MY.jpg"
-            "zh-cn":"carousel/1/Mobile/Buy-Free-mobile-CN.jpg"  
+             "en-us":"carousel/1/Mobile/Buy-Free-mobile-EN.jpg",
+            "ms-ms":"carousel/1/Mobile/Buy-Free-mobile-MY.jpg",
+            "zh-cn":"carousel/1/Mobile/Buy-Free-mobile-CN.jpg",
+            "default":"carousel/1/Desktop/Buy-Free-desktop-EN.jpg"
          }
       },
       {
          "Desktop":{
-            "en-us":"carousel/2/Desktop/Jackpot-Feature-desktop-EN.jpg"
-            "ms-ms":"carousel/2/Desktop/Jackpot-Feature-desktop-MY.jpg"
-            "zh-cn":"carousel/2/Desktop/Jackpot-Feature-desktop-CN.jpg"            
+            "en-us":"carousel/2/Desktop/Jackpot-Feature-desktop-EN.jpg",
+            "ms-ms":"carousel/2/Desktop/Jackpot-Feature-desktop-MY.jpg",
+            "zh-cn":"carousel/2/Desktop/Jackpot-Feature-desktop-CN.jpg",
+            "default":"carousel/1/Desktop/Buy-Free-desktop-EN.jpg"
          },
          "Mobile":{
-             "en-us":"carousel/2/Mobile/Jackpot-Feature-desktop-EN.jpg"
-            "ms-ms":"carousel/2/Mobile/Jackpot-Feature-desktop-MY.jpg"
-            "zh-cn":"carousel/2/Mobile/Jackpot-Feature-desktop-CN.jpg"  
+             "en-us":"carousel/2/Mobile/Jackpot-Feature-desktop-EN.jpg",
+            "ms-ms":"carousel/2/Mobile/Jackpot-Feature-desktop-MY.jpg",
+            "zh-cn":"carousel/2/Mobile/Jackpot-Feature-desktop-CN.jpg",
+            "default":"carousel/1/Desktop/Buy-Free-desktop-EN.jpg"
          }
       },
    ]
